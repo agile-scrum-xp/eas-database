@@ -1,0 +1,3 @@
+date		type		description
+15/03/2017	request		adding file sharing structure in database (a coordinator should be allow to share a file with a series of investigator)
+15/03/2017	change		setting user.comment column mandatory
