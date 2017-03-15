@@ -1,3 +1,5 @@
 date		type		date solved 	description
-14/03/2017	request						adding file sharing structure in database (a coordinator should be allow to share a file with a series of investigator)
-14/03/2017	request		15/03/2017		setting user.comment column mandatory
+14/03/2017	request				adding file sharing structure in database (a coordinator should be allow to share a file with a series of investigator)
+14/03/2017	request		15/03/2017	setting user.comment column mandatory
+14/03/2017	request		15/03/2017	setting password field size to 64 in order to store sha256 hashes
+14/03/2014	request		15/03/2017	security questions and answer should be stored in the database. 
